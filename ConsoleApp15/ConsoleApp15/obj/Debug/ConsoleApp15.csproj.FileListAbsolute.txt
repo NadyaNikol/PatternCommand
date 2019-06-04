@@ -5,3 +5,10 @@ C:\Users\PKO\Documents\Visual Studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj
 C:\Users\PKO\Documents\Visual Studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
 C:\Users\PKO\Documents\Visual Studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
 C:\Users\PKO\Documents\Visual Studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\PKO\Desktop\Новая папка\PatternCommand\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\PKO\Desktop\Новая папка\PatternCommand\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\PKO\Desktop\Новая папка\PatternCommand\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\PKO\Desktop\Новая папка\PatternCommand\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
+C:\Users\PKO\Desktop\Новая папка\PatternCommand\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Desktop\Новая папка\PatternCommand\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\PKO\Desktop\Новая папка\PatternCommand\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb

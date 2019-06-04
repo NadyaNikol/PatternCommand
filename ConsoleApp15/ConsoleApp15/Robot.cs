@@ -25,7 +25,11 @@ namespace ConsoleApp15
         {
             if (degree > 0)
             {
-                Console.WriteLine($"Робот повернулся на  {degree} градусов");
+                Console.WriteLine($"Робот повернулся на  {degree} градусов влево");
+            }
+            else
+            {
+                Console.WriteLine($"Робот повернулся на  {-1 * degree} градусов вправо");
             }
         }
 
@@ -34,6 +38,10 @@ namespace ConsoleApp15
             if (sm > 0)
             {
                 Console.WriteLine($"Робот поднял руку на {sm} сантиметров");
+            }
+            else
+            {
+                Console.WriteLine($"Робот опустил руку на {-1*sm} сантиметров");
             }
         }
 
